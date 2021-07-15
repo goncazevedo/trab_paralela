@@ -33,6 +33,9 @@ Calculating the rank of the process, which holds the pivot row
 TestResult(pMatrix, pVector, pResult, Size);
 ##############
 
-##############
-fabs(pProcRows[j * Size + i])
-##############
+
+ax +by = d
+0 + by = e
+
+a b e 
+c d f
