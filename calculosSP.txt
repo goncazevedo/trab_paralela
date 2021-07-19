@@ -1,0 +1,10 @@
+processos	    20	        50	        100			SpeedUP 20	        SpeedUP 50	        SpeedUP 100
+    1	    0,00131	    0,011686	0,050065		    1	                1	                1
+    2	    0,00188	    0,012759	0,048644		1,435114504	        1,091819271	        0,971616898
+    4	    0,001891	0,007953	0,048379		1,44351145	        0,680557933	        0,966323779
+
+
+
+    Lucas Amaral Pinheiro da Fonseca
+    Jhonatan Azevedo Gonçalves
+    Gabriel Araújo Santos
